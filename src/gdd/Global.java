@@ -29,42 +29,42 @@ public class Global {
     public static final int PLAYER_HEIGHT = 20; // Doubled from 10
 
     // Images
-    public static final String IMG_ENEMY = "gdd-space-invaders-project\\src\\images\\alien1.png";
-    public static final String IMG_PLAYER = "gdd-space-invaders-project\\src\\images\\player1.png";
-    public static final String IMG_SHOT = "gdd-space-invaders-project\\src\\images\\shot1.png";
-    public static final String IMG_EXPLOSION = "gdd-space-invaders-project\\src\\images\\explosion1.png";
-    public static final String IMG_TITLE = "gdd-space-invaders-project\\src\\images\\title1.png";
-    public static final String IMG_POWERUP_SPEEDUP = "gdd-space-invaders-project\\src\\images\\powerup-s.png";
+    public static final String IMG_ENEMY = "src\\images\\alien1.png";
+    public static final String IMG_PLAYER = "src\\images\\player1.png";
+    public static final String IMG_SHOT = "src\\images\\shot1.png";
+    public static final String IMG_EXPLOSION = "src\\images\\explosion1.png";
+    public static final String IMG_TITLE = "src\\images\\title1.png";
+    public static final String IMG_POWERUP_SPEEDUP = "src\\images\\powerup-s.png";
     public static final String IMG_BG_TILE = "images/b1.png";
 
     // Additional assets for upgraded gameplay
-    public static final String IMG_ZIGZAG_RIGHT = "gdd-space-invaders-project\\src\\images\\zigzag_right.png";
-    public static final String IMG_ZIGZAG_LEFT  = "gdd-space-invaders-project\\src\\images\\zigzag_left.png";
-    public static final String IMG_BOSS1        = "gdd-space-invaders-project\\src\\images\\boss1.png";
-    public static final String IMG_BOSS2        = "gdd-space-invaders-project\\src\\images\\boss2.png";
-    public static final String IMG_BOSS_BULLET  = "gdd-space-invaders-project\\src\\images\\boss_bullet.png";
-    public static final String IMG_BOSS_EXPLOSION1 = "gdd-space-invaders-project\\src\\images\\boss_explosion1.png";
-    public static final String IMG_BOSS_EXPLOSION2 = "gdd-space-invaders-project\\src\\images\\boss_explosion2.png";
-    public static final String IMG_BOSS_EXPLOSION3 = "gdd-space-invaders-project\\src\\images\\boss_explosion3.png";
-    public static final String IMG_POWERUP_UPGRADE = "gdd-space-invaders-project\\src\\images\\powerup.png";
-    public static final String IMG_UPGRADE_HUD   = "gdd-space-invaders-project\\src\\images\\upgrade.png";
-    public static final String IMG_SHOT2         = "gdd-space-invaders-project\\src\\images\\shot2.png";
+    public static final String IMG_ZIGZAG_RIGHT = "src\\images\\zigzag_right.png";
+    public static final String IMG_ZIGZAG_LEFT  = "src\\images\\zigzag_left.png";
+    public static final String IMG_BOSS1        = "src\\images\\boss1.png";
+    public static final String IMG_BOSS2        = "src\\images\\boss2.png";
+    public static final String IMG_BOSS_BULLET  = "src\\images\\boss_bullet.png";
+    public static final String IMG_BOSS_EXPLOSION1 = "src\\images\\boss_explosion1.png";
+    public static final String IMG_BOSS_EXPLOSION2 = "src\\images\\boss_explosion2.png";
+    public static final String IMG_BOSS_EXPLOSION3 = "src\\images\\boss_explosion3.png";
+    public static final String IMG_POWERUP_UPGRADE = "src\\images\\powerup.png";
+    public static final String IMG_UPGRADE_HUD   = "src\\images\\upgrade.png";
+    public static final String IMG_SHOT2         = "src\\images\\shot2.png";
 
     /**
      * Additional assets introduced for the multi‑stage refactor.  IMG_BOSS3
      * represents the final boss sprite used in stage three.  IMG_SHIP
      * represents the large ship enemy also used in the final stage.
      */
-    public static final String IMG_BOSS3 = "gdd-space-invaders-project\\src\\images\\boss3.png";
-    public static final String IMG_SHIP  = "gdd-space-invaders-project\\src\\images\\ship.png";
+    public static final String IMG_BOSS3 = "src\\images\\boss3.png";
+    public static final String IMG_SHIP  = "src\\images\\ship.png";
 
     /**
      * The upgraded player sprite.  When the player collects the upgrade
      * power‑up in stage one, their ship changes to use this image.  Do not
      * overwrite IMG_PLAYER so that the default sprite remains player1.png.
      */
-    public static final String IMG_PLAYER_UPGRADE = "gdd-space-invaders-project\\src\\images\\player2.png";
-    public static final String IMG_MISSION_COMPLETED = "gdd-space-invaders-project\\src\\images\\mission_completed.png";
+    public static final String IMG_PLAYER_UPGRADE = "src\\images\\player2.png";
+    public static final String IMG_MISSION_COMPLETED = "src\\images\\mission_completed.png";
 
 
     
