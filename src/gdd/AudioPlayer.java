@@ -43,7 +43,7 @@ public class AudioPlayer {
 
     public static void main(String[] args) {
         try {
-            String filePath = "gdd-space-invaders-project\\src\\audio\\title.wav";
+            String filePath = "src\\audio\\title.wav";
             AudioPlayer audioPlayer = new AudioPlayer(filePath);
 
             audioPlayer.play();
