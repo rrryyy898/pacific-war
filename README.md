@@ -79,19 +79,7 @@
 3. Open the project in an IDE (like VS Code or IntelliJ).
 4. Compile and run the `Main.java` file inside the `src/gdd` folder.
 
-## File Structure
-
-Pacific War/
-├── src/
-│   └── gdd/
-│       ├── scene/
-│       ├── sprite/
-│       ├── powerup/
-│       └── Global.java, Main.java, etc.
-├── resources/
-│   ├── images/
-│   └── audio/
-└── README.md
+---
 
 ## Gameplay Demo
 
