@@ -34,10 +34,10 @@
 
 ## Controls
 
-- ** Left Arrow** – Move left  
-- ** Right Arrow** – Move right
-- ** Up Arrow** – Move forward (up)
-- ** Down Arrow** – Move downward  
+- **Left Arrow** – Move left  
+- **Right Arrow** – Move right
+- **Up Arrow** – Move forward (up)
+- **Down Arrow** – Move downward  
 - **Spacebar** – Shoot
 
 ---
